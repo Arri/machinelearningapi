@@ -1,0 +1,9 @@
+# This file is used to install all required packages.
+# To install everything in anaconda, first switch to your virtual environment, then execute:
+#    > conda install --file requirements.txt
+# In a onther python virtual environments install required libraries with:
+#    > pip install --upgrade -r requirements.txt
+pandas
+matplotlib
+numpy
+tqdm
