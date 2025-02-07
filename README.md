@@ -1,13 +1,12 @@
 *Version: 1.1* <br />
 *First Version: Jan 2020 by Arasch Lagies* <br />
 *Last Update: 07/29/2021 by Arasch Lagies* <br />
-**Axiado Corp.** <br />
 
 # FPGA Based CNN Accelerator Model Development
 
 This repository contains in its new version the following folders:
 1. Documentation
-2. Axiado_ML_Library
+2. ML_Library
 
 
 ## 1. Documentation
@@ -20,8 +19,8 @@ Base-training is done using the MNIST dataset.
 ## 3. utils
 These are utilily functions for testing and evaluating model-library and the generated models.
 
-## 4. Axiado_ML_Library
-This machine learning library was developed at Axiado and allows the sequential construction of CNN models. The model layers are written from scratch using numpy for most calculations. The model design is kept similar to the TensorFlow2 (Keras) Sequential API.
+## 4.  _ML_Library
+This machine learning library was developed at   and allows the sequential construction of CNN models. The model layers are written from scratch using numpy for most calculations. The model design is kept similar to the TensorFlow2 (Keras) Sequential API.
 
 For model construction available are folling layers:
 - Conv2D()

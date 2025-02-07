@@ -12,6 +12,5 @@ This function constructs the layers, their sequence and dependencies.
   
 
 ##### Author Arasch Lagies
-##### Axiado Corp.
 ##### Date: May 29, 2020
 ##### Last Update: 02/04/2020
